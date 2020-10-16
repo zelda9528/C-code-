@@ -1,0 +1,6 @@
+﻿  test.c
+d:\2020code\10-16-1\10-16-1\test.c(39): warning C4013: “print_arr”未定义；假设外部返回 int
+d:\2020code\10-16-1\10-16-1\test.c(41): error C2065: “cmp_int”: 未声明的标识符
+d:\2020code\10-16-1\10-16-1\test.c(41): warning C4047: “函数”:“int (__cdecl *)(const void *,const void *)”与“int”的间接级别不同
+d:\2020code\10-16-1\10-16-1\test.c(41): warning C4024: “bubble_sort”: 形参和实参 4 的类型不同
+d:\2020code\10-16-1\10-16-1\test.c(68): warning C4013: “strcmp”未定义；假设外部返回 int
