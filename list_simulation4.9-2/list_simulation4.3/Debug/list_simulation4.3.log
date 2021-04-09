@@ -1,0 +1,26 @@
+﻿  test.cpp
+d:\2020code\list_simulation4.3\list_simulation4.3\test.cpp(239): error C2662: “ListIterator<T> List<T>::begin(void)”: 不能将“this”指针从“const List<int>”转换为“List<int> &”
+          with
+          [
+              T=int
+          ]
+  d:\2020code\list_simulation4.3\list_simulation4.3\test.cpp(239): note: 转换丢失限定符
+  d:\2020code\list_simulation4.3\list_simulation4.3\test.cpp(238): note: 编译类 模板 成员函数“List<int> &List<int>::operator =(const List<int> &)”时
+  d:\2020code\list_simulation4.3\list_simulation4.3\test.cpp(277): note: 参见对正在编译的函数 模板 实例化“List<int> &List<int>::operator =(const List<int> &)”的引用
+  d:\2020code\list_simulation4.3\list_simulation4.3\test.cpp(266): note: 参见对正在编译的类 模板 实例化“List<int>”的引用
+d:\2020code\list_simulation4.3\list_simulation4.3\test.cpp(239): error C2512: “ListIterator<T>”: 没有合适的默认构造函数可用
+          with
+          [
+              T=int
+          ]
+  d:\2020code\list_simulation4.3\list_simulation4.3\test.cpp(92): note: 参见“ListIterator<T>”的声明
+          with
+          [
+              T=int
+          ]
+d:\2020code\list_simulation4.3\list_simulation4.3\test.cpp(240): error C2662: “ListIterator<T> List<T>::end(void)”: 不能将“this”指针从“const List<int>”转换为“List<int> &”
+          with
+          [
+              T=int
+          ]
+  d:\2020code\list_simulation4.3\list_simulation4.3\test.cpp(240): note: 转换丢失限定符
