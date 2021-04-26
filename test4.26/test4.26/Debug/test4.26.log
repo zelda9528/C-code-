@@ -1,0 +1,9 @@
+﻿  test.cpp
+d:\2020code\test4.26\test4.26\test.cpp(30): error C2259: “Benz”: 不能实例化抽象类
+  d:\2020code\test4.26\test4.26\test.cpp(30): note: 由于下列成员:
+  d:\2020code\test4.26\test4.26\test.cpp(30): note: “void Car::Drive(void)”: 是抽象的
+  d:\2020code\test4.26\test4.26\test.cpp(10): note: 参见“Car::Drive”的声明
+d:\2020code\test4.26\test4.26\test.cpp(32): error C2259: “BMW”: 不能实例化抽象类
+  d:\2020code\test4.26\test4.26\test.cpp(32): note: 由于下列成员:
+  d:\2020code\test4.26\test4.26\test.cpp(32): note: “void Car::Drive(void)”: 是抽象的
+  d:\2020code\test4.26\test4.26\test.cpp(10): note: 参见“Car::Drive”的声明
