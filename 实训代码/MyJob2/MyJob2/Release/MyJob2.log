@@ -1,0 +1,22 @@
+﻿  attendence.cpp
+e:\aaaaa\myjob2\myjob2\myjob2\attendence.cpp(107): warning C4018: “<”: 有符号/无符号不匹配
+e:\aaaaa\myjob2\myjob2\myjob2\attendence.cpp(129): warning C4018: “<”: 有符号/无符号不匹配
+e:\aaaaa\myjob2\myjob2\myjob2\attendence.cpp(151): warning C4018: “<”: 有符号/无符号不匹配
+  attendquery.cpp
+e:\aaaaa\myjob2\myjob2\myjob2\attendquery.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+  DB.cpp
+  department.cpp
+e:\aaaaa\myjob2\myjob2\myjob2\department.cpp(71): warning C4018: “<”: 有符号/无符号不匹配
+e:\aaaaa\myjob2\myjob2\myjob2\department.cpp(113): warning C4018: “<”: 有符号/无符号不匹配
+e:\aaaaa\myjob2\myjob2\myjob2\department.cpp(123): warning C4018: “<”: 有符号/无符号不匹配
+  HomePage.cpp
+  LoginPage.cpp
+  worker.cpp
+e:\aaaaa\myjob2\myjob2\myjob2\worker.cpp(91): warning C4018: “<”: 有符号/无符号不匹配
+e:\aaaaa\myjob2\myjob2\myjob2\worker.cpp(134): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  12 of 375 functions ( 3.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    15 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  MyJob2.vcxproj -> E:\aaaaa\MyJob2\MyJob2\Release\MyJob2.exe
